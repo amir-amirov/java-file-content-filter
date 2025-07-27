@@ -30,7 +30,7 @@
   ```
 - Запустите программу с аргументами:
   ```
-  java Main -f -p sample- -o ./ in1.txt in2.txt
+  java Main -f -p sample- -o ./ in1.txt
   ```
 
 ## Аргументы командной строки
